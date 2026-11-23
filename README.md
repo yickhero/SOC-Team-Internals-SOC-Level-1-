@@ -167,3 +167,5 @@ The requirements to ensure a quick detection and remediation of the threat are c
 <br>1. As L1, make everything possible to quickly escalate the threats to L2.<br>
 
 <br>2. Ensure your team has documented what to do during different attack scenarios. |
+
+<br>2. Ensure your team has documented what to do during different attack scenarios. |
